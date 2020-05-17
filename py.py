@@ -1,18 +1,2 @@
-print("ritesh zoad")
-
-Exit
-X
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+x = "ritesh zoad"
+print(x)
